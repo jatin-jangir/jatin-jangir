@@ -21,7 +21,9 @@
 
 - 📫 How to reach me **jatinjangir0220@gmail.com**
 
-- 📄 Know about my experiences [https://jangir-js.netlify.app/resume](https://jangir-js.netlify.app/resume)
+- 📄 Know about my experiences 
+      - [https://jangir-js.netlify.app/resume](https://jangir-js.netlify.app/resume)
+      - [https://cse.iitk.ac.in/users/jatinj24/](https://cse.iitk.ac.in/users/jatinj24/)
 
 - ⚡ Fun fact **Solving question a day, keeps tension away.**
 
