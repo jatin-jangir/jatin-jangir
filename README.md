@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jatin Jangir</h1>
-<h3 align="center">A passionate Cloud developer from India.</h3>
+<h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-jangir&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-jangir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-jangir" alt="jatin-jangir" /></a> </p>
 
 - 🔭 I was working at **Devtron as DevOps Enginner**
 
